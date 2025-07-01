@@ -1,14 +1,13 @@
-Welcome!
-I'm Marcos Bento!
+# 👋 Bem-vindo! Eu sou Marcos Bento!
 
-💻 I'm always seeking to learn.
+💻 Estou sempre buscando aprender.
 
-🏡 I’m from Brazil.
+🏡 Sou do Brasil.
 
-📚 I read the most important book of all — the Holy Bible.
+📚 Leio o livro mais importante de todos — a Bíblia Sagrada.
 
-⚽ I love sports.
+⚽ Amo esportes.
 
-🎬 My favorite movie is Avengers: Endgame.
+🎬 Meu filme favorito é Vingadores: Ultimato.
 
-✝️ Jesus is the only way — glory to God!
+✝️ Jesus é o único caminho — glória a Deus!
